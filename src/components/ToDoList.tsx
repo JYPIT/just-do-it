@@ -1,4 +1,3 @@
-import { spawn } from "child_process";
 import { useRecoilState, useRecoilValue } from "recoil";
 import { Categories, categoryState, toDoSelector } from "../atoms";
 import CreateToDo from "./CreateToDo";
