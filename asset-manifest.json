@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/just-do-it/static/js/main.cdf04fcb.js",
+    "index.html": "/just-do-it/index.html",
+    "main.cdf04fcb.js.map": "/just-do-it/static/js/main.cdf04fcb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cdf04fcb.js"
+  ]
+}
