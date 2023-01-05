@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/just-do-it/static/js/main.cdf04fcb.js",
+    "main.js": "/just-do-it/static/js/main.8e60da77.js",
     "index.html": "/just-do-it/index.html",
-    "main.cdf04fcb.js.map": "/just-do-it/static/js/main.cdf04fcb.js.map"
+    "main.8e60da77.js.map": "/just-do-it/static/js/main.8e60da77.js.map"
   },
   "entrypoints": [
-    "static/js/main.cdf04fcb.js"
+    "static/js/main.8e60da77.js"
   ]
 }
